@@ -22,8 +22,6 @@ Ao final basta atualizar a página e as cartas serão embaralhadas aleatoriament
 
 Com as cartas embaralhadas em nova ordem desconhecida a diversão recomeça e não tem fim, pois pode ser reiniciada quantas vezes desejar.
 
-***Para acessar o jogo da memória do Calvin e Haroldo [clique aqui](https://ContiRodrigues.github.io/dio-desafio-jogo-da-memoria/)***
-
 ####**Todos os requisitos do desafio foram cumpridos.**
 
 *SDG*
